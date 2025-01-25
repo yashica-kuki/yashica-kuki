@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashica-kuki
+- 👋 Hi, I’m @yashica9876
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c, c++ and web dev
 - 💞️ I’m looking to collaborate on projects
